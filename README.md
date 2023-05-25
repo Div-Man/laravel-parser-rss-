@@ -4,7 +4,7 @@
 
 **folder** заменить на название папки
 
-1. ```git clone https://github.com/Div-Man/laravel-vue-rest.git folder```
+1. ```git clone git@github.com:Div-Man/laravel-parser-rss-.git folder```
 2. Перейти в папку с проектом.
 3. ```composer update```
 4. ```cp .env.example .env```
