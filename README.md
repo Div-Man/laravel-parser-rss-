@@ -24,9 +24,14 @@
 8. ```sudo chmod -R ugo+rw storage```
 
 
+Добавить ссылку, для отображения изображений
+
+```php artisan storage:link```
+
+
 Для парсинга RSS запустить команду:
 
-```php artisan app:parsing-news```
+```php artisan app:parsing-news``` (первый раз у меня парсится 3 минуты)
 
 Если во время выполнения этой команды, будет ошибка **Permission denied**, то настроить права:
 
