@@ -38,6 +38,8 @@
 
 Так как тегов в RSS нету, за место них, были взяты категории.
 
+Для парсинга используется пакет [Laravel Feed Reader](https://github.com/vedmant/laravel-feed-reader).
+
 ![Alt text](https://github.com/Div-Man/laravel-parser-rss-/blob/master/public/rss1.png)
 ***
 ![Alt text](https://github.com/Div-Man/laravel-parser-rss-/blob/master/public/rss3.png)
